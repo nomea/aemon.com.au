@@ -1,0 +1,43 @@
+* {  
+   vertical-align: baseline;  
+   font-family: inherit;  
+   font-style: inherit;  
+   font-size: 100%;  
+   border: none;  
+   padding: 0;  
+   margin: 0;  
+   }  
+body {  
+   padding: 5px;  
+   }  
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, form, ul, ol, dl {  
+   margin: 20px 0;  
+   }  
+li, dd, blockquote {  
+   margin-left: 40px;  
+   }  
+   
+.links {
+   font-size: 9px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+   color: #CC9999;
+}
+a:visited {
+   color: #999999;
+}
+a:hover {
+   color: #FFCCCC;
+}
+
+body {
+   background-color: #FFFFFF;
+   background-image:url();
+   background-repeat: repeat-x;
+   background-position: center bottom;
+}
+
+.small {font-size: 9px; font-family: Arial, Helvetica, sans-serif; color: #666666; margin: 10px 0}
+.large {font-size: 10px; font-family: Arial, Helvetica, sans-serif; color: #666666; margin: 10px 0}
